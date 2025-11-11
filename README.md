@@ -45,6 +45,8 @@ A Python program that simulates a coffee machine, managing resources, taking use
 
 ![Parveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=parveen7602&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parveen7602&layout=compact&theme=radical)
+![Parveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parveen7602&show_icons=true&theme=tokyonight)
+
 
 ---
 
