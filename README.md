@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Parveen-G
 
-🎓 **MCA Student** | 💻 **Python & Web Developer**  
+🎓 💻 **Python & Web Developer**  
 🚀 Passionate about building projects, learning in public, and sharing what I learn.
 
 ---
 
 ## 🧠 About Me
 - 🔍 Exploring **Web Development** and **Python Projects**
-- 🧩 Interested in **Machine Learning** and **Automation**
+- 🧩 Interested in **Machine Learning** and **Artificial Intelligence**
 - 💡 I believe in *learning by doing* and contributing to open source
 - 🌱 Currently improving my skills in **HTML, CSS, JS, and Frameworks**
 
@@ -15,7 +15,7 @@
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, HTML, CSS, JavaScript  
-- **Frameworks/Tools:** Flask, Git, GitHub, Jupyter Notebook  
+- **Frameworks/Tools:** Django, Git, GitHub, Jupyter Notebook  
 - **Database:** SQLite, MySQL (basics)  
 - **Version Control:** Git, GitHub  
 
